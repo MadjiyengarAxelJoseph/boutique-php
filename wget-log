@@ -1,0 +1,11 @@
+--2026-06-15 23:20:09--  https://www.fpdf.org/en/dl.php?v=182
+Résolution de www.fpdf.org (www.fpdf.org)… 213.186.33.19
+Connexion à www.fpdf.org (www.fpdf.org)|213.186.33.19|:443… connecté.
+requête HTTP transmise, en attente de la réponse… 200 OK
+Taille : 19 [text/html]
+Enregistre : ‘dl.php?v=182’
+
+dl.php?v=182          0%[                    ]       0  --.-KB/s               dl.php?v=182        100%[===================>]      19  --.-KB/s    ds 0s      
+
+2026-06-15 23:20:11 (12,7 MB/s) - ‘dl.php?v=182’ enregistré [19/19]
+
