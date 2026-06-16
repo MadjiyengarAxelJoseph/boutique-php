@@ -245,4 +245,4 @@ GitHub : https://github.com/MadjiyengarAxelJoseph
 
 # Projet proposé par
 
-Mr KAGONBE KANABET Bruno cours web Dynamiquee
+Mr KAGONBE KANABET Bruno cours web Dynamique

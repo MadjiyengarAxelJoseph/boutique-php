@@ -12,13 +12,9 @@ include 'includes/header.php';
         <h2>Clients</h2>
         <p>Gérer les clients de la boutique.</p>
         <br>
-        <a href="edit.php?id=<?= $client['id']; ?>" class="btn-edit">Modifier</a>
-
-<a href="delete.php?id=<?= $client['id']; ?>"
-   class="btn-delete"
-   onclick="return confirm('Confirmer suppression ?')">
-   Supprimer
-</a>
+         <a href="clients/index.php" class="btn">
+            Accéder
+        </a>
     </div>
 
     <div class="card">
